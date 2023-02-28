@@ -1,12 +1,12 @@
 
  ![MasterHead](https://blog.bit.ai/wp-content/uploads/2018/09/How-to-Embed-GitHub-Gists-in-Your-Documents-Blog-Banner.png)
-<h1 align="center">Hi 👋, I'm Tolulope Fakunle</h1>
-<h3 align="center">An Expert Flutter Developer</h3>
+<h1 align="center">Hi 👋, I'm Eric NIYOKWIZERWA</h1>
+<h3 align="center">An Expert Web and software Engineer</h3>
 <img align= "right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Tolulope05&label=Profile%20views&color=0e75b6&style=flat" alt="Tolulope" /> </p>
 
-<p align="left"> <a href="https://twitter.com/FakunleTolu" target="blank"><img src="https://img.shields.io/twitter/follow/FakunleTolu?logo=twitter&style=for-the-badge" alt="FakunleTolu" /></a> </p>
+<p align="left"> <a href="https://twitter.com/FakunleTolu" target="blank"><img src="https://img.shields.io/twitter/follow/FakunleTolu?logo=twitter&style=for-the-badge" alt="Eric" /></a> </p>
 
 - 🔭 I’m currently working on **Projects with Flutter, Dart and Python Django**
 
@@ -14,11 +14,11 @@
 
 - 💬 You can ask me about **Cross-platform Mobile App Development**
 
-- 📫 How to reach me **fakunletolulope05@gmail.com**
+- 📫 How to reach me **ericniyokwizerwa1@gmail.com**
 
 - ⚡ Fun fact **I'm a student of ALX Software Engineering Programme**
 
-- 🔭 I'm a member of **Google Developer Group**
+- 🔭 I'm a member of **Klab ad ALX Developer Group**
  
  ## 🔗 Links
 [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://developers.google.com/profile/u/tolulopefakunle/dashboard)
@@ -56,10 +56,10 @@ Name | Badges
 
 ## ❤ Views and Followers.
 
-<a href="https://github.com/Tolulope05/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=Tolulope05">
+<a href="https://github.com/EricNiyo73/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=EricNiyo73">
 </a>
-<a href="https://github.com/Tolulope05?tab=followers"><img src="https://img.shields.io/github/followers/Tolulope05?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/EricNiyo73?tab=followers"><img src="https://img.shields.io/github/followers/Tolulope05?label=Followers&style=social" alt="GitHub Badge"></a>
 
 
  <br>

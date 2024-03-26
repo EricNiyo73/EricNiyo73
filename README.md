@@ -18,7 +18,7 @@
 
 - 🔭 I'm a member of **Klab ad ALX Developer Group**
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YvetteNyibuka&layout=compact"/>
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EricNiyo73&layout=compact"/>
 
 ## 🔗 Links
 

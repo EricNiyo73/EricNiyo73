@@ -1,5 +1,3 @@
-![MasterHead](https://blog.bit.ai/wp-content/uploads/2018/09/How-to-Embed-GitHub-Gists-in-Your-Documents-Blog-Banner.png)
-
 # 👋 Hello, I'm Eric Niyokwizerwa!
 
 💻 Full Stack Software Engineer | 📱 Mobile Developer | 🌍 Based in Kigali, Rwanda  
